@@ -1,0 +1,23 @@
+{
+  "name": "Player",
+  "initial_position": {
+    "PositionX": 0.0,
+    "PositionY": 0.0,
+    "PositionZ": 15.0
+  },
+  "mass": 5.0,
+  "renderable": {
+    "sprite": "data\\NewPlayer.dds"
+  },
+
+  "components": {
+    "moveable": {
+      "mass": 70.0,
+      "kd": 0.2
+    }
+
+
+  }
+
+
+}

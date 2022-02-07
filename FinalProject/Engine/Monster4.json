@@ -1,0 +1,23 @@
+{
+  "name": "Monster4",
+  "initial_position": {
+    "PositionX": 0.0,
+    "PositionY": -100.0,
+    "PositionZ": 15.0
+  },
+  "mass": 100.0,
+  "renderable": {
+    "sprite": "data\\Ball.dds"
+  },
+
+  "components": {
+    "moveable": {
+      "mass": 0.0,
+      "kd": 0
+    }
+
+
+  }
+
+
+}
